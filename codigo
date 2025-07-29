@@ -1,0 +1,45 @@
+<html lang="es-lA">
+
+<head>
+    <link rel="stylesheet" href="styles.css" />
+     <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Permanent+Marker&display=swap" rel="stylesheet">
+    <title>Frestyle LA</title>
+</head>
+
+<body>
+
+
+    <header>TUDO SOBRE UNHAS </header>
+
+    <section>
+
+        <div>
+            <h1>técnicas de alongamento de unha </h1>
+            <P>#ALONGAMENTO PERFEITO SOFT GEL</P>
+
+        </div>
+        <div>
+            <iframe width="560" height="315" src="https://youtu.be/gJg3eBVE_Bs"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+            <iframe width="560" height="315" src="https://www.youtube.com/shorts/Mie_Z0lT-7I?feature=share"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/3Co0U9jOekY?si=cTwitcnxw7-mUlPh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+        </div>
+    </section>
+
+     
+
+</body>
+
+
+
+</html>
